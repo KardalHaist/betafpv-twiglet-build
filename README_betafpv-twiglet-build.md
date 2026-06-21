@@ -1,4 +1,4 @@
-# $57.93 Micro FPV Toothpick — Cheaper Than the MEPS King 59
+# $53.93 Micro FPV Toothpick 
 
 Built a sub-$58 micro FPV drone from scratch using AliExpress welcome deals. Undercut the [MEPS King 59]() — a drone marketed as a budget build — by $1.07 on the drone itself, with a different flight controller, a 3D printed canopy, and printed battery mounts.
 
