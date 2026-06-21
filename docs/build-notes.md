@@ -47,9 +47,4 @@ Battery was at 3.56V resting before first flight attempt. Under motor load it sa
 
 ---
 
-## What's Still Unresolved
-
-- `ibata_scale` calibration — current sensor reads wrong
-- Props — need 2035 or 2040, not yet ordered
-ing build-notes.md…]()
 
