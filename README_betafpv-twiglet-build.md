@@ -67,11 +67,6 @@ Full receipt documentation: [docs/receipts.md]() — TBD
 
 ---
 
-## Notes / Known Issues
-
-- Current sensor reads garbage — `ibata_scale` calibration is wrong, capacity drawn numbers are not accurate
-- 1103 motors take 1.5mm shaft props — do not use 1218 props (wrong shaft size), need 2035 or 2040
-- VTX set to Raceband R Ch1 at 25mW
 
 ---
 
