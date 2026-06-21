@@ -2,7 +2,7 @@
 
 Built a sub-$58 micro FPV drone from scratch using AliExpress welcome deals. Undercut the [MEPS King 59]() — a drone marketed as a budget build — by $1.07 on the drone itself, with a different flight controller, a 3D printed canopy, and printed battery mounts.
 
-> Video demo: [media/video]()
+> Video demo: [[media/video](https://youtube.com/shorts/hndg69Q7bj8?feature=share)]()
 > MEPS King 59 reference doc: [link TBD]()
 
 Price comparison is drone-only (no TX or RX included in either number).
