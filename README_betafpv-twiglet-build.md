@@ -75,4 +75,4 @@ Full receipt documentation: [docs/receipts.md]() — TBD
 
 ---
 
-*Florida Tech — EE Freshman project, Spring 2026*
+*Florida Tech — EE Freshman project
